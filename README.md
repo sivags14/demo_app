@@ -1,2 +1,2 @@
 # demo_app
-Line from branch
+Different edit made on conflict-test branch
