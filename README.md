@@ -1,2 +1,2 @@
 # demo_app
-Line from branch
+Line changed on master directly
